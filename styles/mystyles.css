@@ -1,0 +1,39 @@
+body {
+    background-image: linear-gradient(rgba(47, 23, 15, 0.65), rgba(47, 23, 15, 0.65)), url("../assets/images/western\ flower.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+
+.mb-6{
+    margin-bottom: 1rem !important;
+    text-align: left;
+}
+
+.mb-7{
+    margin-bottom: 1rem !important;
+    text-align: left;
+    font-weight: bold; 
+    text-decoration: underline;  
+}
+
+.section-heading .section-heading-lower1 {
+    display: block;
+    font-size: 2.5rem;
+    font-weight: 100;
+}
+
+.video{
+    margin-left: auto;
+    display: block;
+}
+
+.video2{
+    float: right;
+    margin: 30px 60px;
+}
+
+.image{
+    float: left;
+    margin: 30px 60px;
+}
